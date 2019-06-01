@@ -1,3 +1,8 @@
+#
+# This file is a command-module for Dragonfly.
+# (c) Copyright 2008 by Christo Butcher
+# Licensed under the LGPL, see <http://www.gnu.org/licenses/>
+# based on modified https://github.com/t4ngo/dragonfly-modules/blob/master/command-modules/_multiedit.py
 # created by Sam @ https://twitter.com/shuff_co
 
 print("formatter grammar loaded")
